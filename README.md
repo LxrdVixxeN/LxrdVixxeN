@@ -9,5 +9,7 @@
 - Firewalls, Intrusion Detection Systems (IDS), and Intrusion Prevention Systems (IPS)
 - Application Security Development
 
+Certified Incident Responder (eCIR) in loading...
+
 > [!WARNING]
 > Hacking is not a joke and don't use your cyber skills for illegal purposes!
